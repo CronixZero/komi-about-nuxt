@@ -43,3 +43,4 @@ Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/prese
 
 Website:
 ![Screenshot_621](https://user-images.githubusercontent.com/47929140/170915420-4088b89e-a622-4e25-934b-70284ac5bcce.png)
+![Screenshot_622](https://user-images.githubusercontent.com/47929140/170915639-6f90dc01-4a64-4150-b7f5-6f25edd872ce.png)
